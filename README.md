@@ -24,7 +24,6 @@ npm run build
 
 ## Demo
 
-The site is live [here]()
-
 - Author : Suroj Maharjan
+- License : MIT
 - Version : 1.0.0
